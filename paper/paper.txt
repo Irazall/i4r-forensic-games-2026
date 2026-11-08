@@ -1,0 +1,721 @@
+      International Journal of Sport and Exercise Psychology
+
+
+
+
+      ISSN: 1612-197X (Print) 1557-251X (Online) Journal homepage: www.tandfonline.com/journals/rijs20
+
+
+
+
+Eﬀects of 8-week endurance, strength, and
+coordination exercise interventions on attention
+in adolescents: a randomised controlled study
+
+Wolfgang Altermann & Peter Gröpel
+
+To cite this article: Wolfgang Altermann & Peter Gröpel (2025) Eﬀects of 8-week endurance,
+strength, and coordination exercise interventions on attention in adolescents: a randomised
+controlled study, International Journal of Sport and Exercise Psychology, 23:3, 487-500, DOI:
+10.1080/1612197X.2024.2332280
+
+To link to this article: https://doi.org/10.1080/1612197X.2024.2332280
+
+
+
+
+       © 2024 The Author(s). Published by Informa
+       UK Limited, trading as Taylor & Francis
+       Group
+
+       Published online: 26 Mar 2024.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 3206
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=rijs20
+INTERNATIONAL JOURNAL OF SPORT AND EXERCISE PSYCHOLOGY
+2025, VOL. 23, NO. 3, 487–500
+https://doi.org/10.1080/1612197X.2024.2332280
+
+
+
+
+Eﬀects of 8-week endurance, strength, and coordination
+exercise interventions on attention in adolescents: a
+randomised controlled study
+Wolfgang Altermann                    and Peter Gröpel
+Division of Sport Psychology, Centre for Sport Science and University Sports, University of Vienna, Vienna,
+Austria
+
+
+    ABSTRACT                                                                                        ARTICLE HISTORY
+    The aim of this study was to test the eﬀect of 8-week endurance,                                Received 2 August 2023
+    resistance, and coordination training programmes on adolescents’                                Accepted 14 March 2024
+    attention. Adolescent students (N = 96) aged 15–18 years were
+                                                                                                    KEYWORDS
+    randomised to one of three exercise intervention groups                                         Physical activity; chronic
+    (endurance, strength, coordination) or to a non-exercise, control                               eﬀect; school; attention; D2
+    group. The random assignment to the study groups was stratiﬁed                                  test
+    according to participants’ age and gender. The intervention
+    lasted for eight consecutive weeks, with two 50-min training
+    sessions per week. Before and after the exercise intervention, all
+    participants completed the d2-test of attention. A 4 × 2 repeated
+    measures ANOVA with contrast-coded test was used as the main
+    analysis method. The analysis revealed that attentional test
+    performance increased from before to after the exercise
+    intervention for all exercise groups, as compared with the control
+    group. The coordination group showed the highest, and the
+    strength group the lowest, improvements in attentional
+    performance. These results indicate that long-term exercise
+    intervention is in general beneﬁcial for adolescent students’
+    attention, with the greatest eﬀects being observed in the
+    coordination exercise group. Physical education teachers are
+    encouraged to enrich their lessons with coordinative tasks.
+
+
+
+Cognitive skills and attention are crucial for academic performance (Alloway & Alloway,
+2010; Best et al., 2011), and are supported by a variety of brain regions that continue
+to mature throughout adolescence (Luna, 2009). Prominent developmental transform-
+ations in this period of the lifespan are seen in the prefrontal cortex and limbic brain
+regions (Johnson et al., 2009; Spear, 2000), with structural and functional changes includ-
+ing synaptic pruning, myelination, and integration of cortical areas, which results in ﬁne
+tuning of cognitive abilities to perform complex tasks, be more precise, and control dis-
+traction (Luna, 2009). Adolescence is thus a period of great opportunity to promote
+
+
+CONTACT Peter Gröpel          peter.groepel@univie.ac.at     Division of Sport Psychology, Centre for Sport Science and
+University Sports, University of Vienna, Auf der Schmelz 6a, 1150 Vienna, Austria
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License
+(http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any
+medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. The terms on which
+this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+488       W. ALTERMANN AND P. GRÖPEL
+
+
+cognitive development and learning through enriched environmental conditions such as,
+for example, physical activity and exercise (Chim et al., 2021; Hawley et al., 2014).
+   Physical exercise has been described as a type of physical activity which is planned,
+structured, and repetitive for the aim of better ﬁtness and health (Caspersen et al.,
+1985). Yet the exercise beneﬁts are not limited to improved ﬁtness and health; improve-
+ments in cognitive skills and attention are also evident (Chaddock-Heyman et al., 2014; de
+Sousa et al., 2018; Landrigan et al., 2020). This study especially focuses on attention which
+has been broadly deﬁned as the ability to selectively focus on an object or task (Rueda
+et al., 2015). It can be viewed as the learning foundation, which in time would
+inﬂuence most human activities, from the simplest tasks to the most complex ones.
+Because adolescents experience frequent external distractions (Stawarczyk et al., 2014),
+we need to understand how to best promote their ability to concentrate. Literature indi-
+cates that both acute and long-term exercise interventions have positive eﬀects on
+people’s attention (de Sousa et al., 2018). The eﬀects of long-term interventions are par-
+ticularly relevant here, as the regular engagement in physical exercise, rather than a single
+bout of exercise, might especially contribute to cognitive development in adolescents.
+Indeed, higher levels of physical ﬁtness, which typically results from regular physical exer-
+cise (Poitras et al., 2016; Thomas et al., 2020), have been associated with better scores on
+various tests of attention (Reigal et al., 2020; Westfall et al., 2018) and higher academic
+performance in children and adolescents (Santana et al., 2016). The implication is that
+long-term physical exercise may be an eﬀective strategy to promote the development
+of attentional skills in adolescent students.
+   In general, researchers distinguish diﬀerent modes of exercise training, such as endur-
+ance, strength, and coordination, all of which may have an eﬀect on adolescents’ atten-
+tion (de Sousa et al., 2018). Endurance and strength exercises are known to enhance
+people’s aerobic capacity and improve cardiac performance (Spalding et al., 2004),
+which may facilitate attentional performance by increased blood and oxygen ﬂow to
+the brain (Chang et al., 2012; Hillman et al., 2003; Pereira et al., 2007) and elevated
+levels of peripheral catecholamines and brain-derived neurotrophic factor (Ferris et al.,
+2007; McMorris et al., 2016; Moreau & Conway, 2013). Coordination exercise improves
+the body’s control and is characterised by a closely coupled activation of the prefrontal
+cortex and the cerebellum (Stoodley et al., 2012), which requires (and promotes) a
+great deal of cognitive and attentional involvement (Budde et al., 2008; Netz, 2019;
+Serrien et al., 2006).
+   The positive eﬀects of long-term exercise intervention on attention have been mostly
+reported on endurance exercise training, with fewer studies focusing on eﬀects of
+strength or coordination exercise trainings (de Sousa et al., 2018). The evidence for endur-
+ance training is largely supportive (e.g., Alesi et al., 2016; Hillman et al., 2014; Iuliano et al.,
+2015), whereas strength training shows less consistent results (e.g., Liu-Ambrose et al.,
+2010; Nouchi et al., 2014; Vaughan et al., 2014). To directly compare the two, Iuliano
+et al. (2015) conducted an experimental study and found that only participants involved
+in endurance training improved their performance on an attention-demanding task. An
+experimental study on long-term coordination training and attention has not yet been
+reported (de Sousa et al., 2018), yet indirect evidence from studies on physical ﬁtness,
+which is a combination of regular physical activity and genetically inherited ability
+(Ortega et al., 2018), shows that coordination positively correlates with attentional
+                             INTERNATIONAL JOURNAL OF SPORT AND EXERCISE PSYCHOLOGY       489
+
+
+performance (Niederer et al., 2011; Páez-Maldonado et al., 2020; Reigal et al., 2020). A
+comprehensive meta-regression that compared diﬀerent types of long-term exercise in
+relation to overall cognitive (or executive) function showed an overall positive eﬀect of
+all types of exercise on cognition, with somewhat greater eﬀectiveness of coordination
+exercise than endurance and strength exercises across various age groups (Ludyga
+et al., 2020).
+    The above evidence indicates a positive eﬀect of diﬀerent types of long-term exercise
+trainings on adolescents’ attention, yet a study that would directly compare the eﬀective-
+ness of these types of training is still missing from the literature. We thus conducted an
+evaluation of the diﬀerent types of exercise to shed more light on which type of exercise
+activities has the highest potential to facilitate attention in adolescence. The aim of the
+study was twofold. First, we tested the eﬀect of 8-week endurance, resistance, and coordi-
+nation exercise interventions on adolescents’ attention. Based on the above evidence that
+long-term exercise improves attention, we hypothesised that the three exercise interven-
+tion groups would increase their attentional test performance more than a non-exercise,
+control group. Second, we tested whether the three exercise interventions would have
+the same attentional beneﬁts. Based on the consistently reported evidence for endurance
+training, we further hypothesised that the endurance exercise group would show a higher
+increase in attention that the strength and coordination exercise groups. Because schools
+are widely recognised as essential for promoting physical activity in children and adoles-
+cents (WHO, 2018), we sampled adolescent students and delivered the interventions in
+school setting.
+
+
+Method
+Study design
+This was a preregistered, randomised intervention study with four groups and two dis-
+tinct measurement occasions. Data are available on ﬁgshare (https://doi.org/10.6084/
+m9.ﬁgshare.23703237), and preregistrations of sample size and primary analyses are avail-
+able on AsPredicted (https://aspredicted.org/mt9t4.pdf).
+
+
+Participants
+An a priori calculation with G*Power (Faul et al., 2007) for a 4 × 2 (Group × Phase) analysis
+of variance (ANOVA) with repeated measurements, based on a middle eﬀect size (f =
+0.25), power of 0.95, and the alpha level of .05, resulted in a minimal sample size of 76
+participants. Participants were students recruited from an academic secondary school
+in Vienna, Austria. Inclusion criteria were the target age (15–18 years), no physical limit-
+ations, and proﬁciency in German. For each age category (15, 16, 17, and 18 years), we
+stopped recruiting when the sub-sample reached 24 persons with balanced sex distri-
+bution. The total sample thus included 96 students (48 women and 48 men). The partici-
+pants attended between 2 and 5 h of physical education per week and the majority (80%)
+also reported being active outside the school. The study was approved by the ethics com-
+mittee of the ﬁrst author’s institution (#00595). Participants and their parents signed an
+informed consent before taking part in the study.
+490      W. ALTERMANN AND P. GRÖPEL
+
+
+Procedure
+The study consisted of three distinct phases: a pretest, an 8-week exercise intervention
+phase, and a posttest. The pretest took place one week before the exercise intervention.
+Participants self-reported their age, gender, sport engagement, and academic grades, and
+then competed the d2-test of attention. The exercise intervention lasted for eight con-
+secutive weeks, with two 50-min training sessions per week (i.e., 16 sessions in total).
+Each session consisted of a 10-min warm-up, the speciﬁc physical intervention (endur-
+ance, strength, or coordination; 25 min), and a cool-down at the end (15 min). The
+strength and coordination trainings took place in a sports hall, whereas the endurance
+training was performed on an outdoor-track. Rate of perceived exertion was measured
+immediately after the ﬁrst training session using the Borg CR-10 scale. All training sessions
+were delivered outside of the regular PE lessons and on days when no regular PE lesson
+took place. In the posttest, one week after completing the exercise intervention, partici-
+pants performed the d2-test of attention for the second time, were thanked for their par-
+ticipation and dismissed.
+
+
+Intervention
+We used stratiﬁed randomisation to assign participants to one of three exercise interven-
+tion groups (endurance, strength, coordination) or to a non-exercise, control group. Par-
+ticipants were ﬁrst grouped into strata according to their age (15, 16, 17, and 18 years) and
+gender (male, female). Within each stratum, participants were then assigned to one of the
+four study groups by using randomisation function in Microsoft Excel (Microsoft,
+Redmond, WA). During the study, 24 persons (20% of all recruited persons) dropped
+out due to not completing all training sessions or the posttest. We kept recruiting until
+we reached 24 persons per group with equal age and gender distribution across
+groups (Figure 1). All exercise groups completed the same 10-min warm-up and 15-
+min cool-down at the start and the end of each session, respectively. The speciﬁc physical
+intervention (endurance, strength, or coordination) took place in-between and lasted for
+25 min.
+    Participants in the endurance group performed a standardised 25-min high-intensity
+interval training (HIIT; Lüthy & Di Potenza, 2016). The HIIT started with a 90-second
+warm-up running and followed with 10 repetitions of hard sprinting for 20 s separated
+by 40 s of jogging for recovery. After 2 min of active rest (jogging casually), participants
+completed another 10 repetitions of sprinting and jogging, and concluded with a 90-
+second cool-down walking. Participants in the strength group performed a standardised
+25-min full-body strength workout (Rühl & Laubach, 2014). The workout consisted of
+seven exercises in a circuit (sit-ups, triceps bench dips, alternating step-ups, reverse
+ﬂys, push-ups, parallel pull-ups, and plank with arm extensions), with 60 s work and
+30 s rest between each exercise. Participants completed the circuit twice with four
+minutes rest between each circuit. Participants in the coordination group performed a
+standardised 25-min coordination circuit training (Hunzinker & Weber, 2008). The training
+comprised 10 exercises in a circuit, with 2 min work and 30 s rest between each exercise.
+The exercises were: simultaneous bouncing with two diﬀerent balls (e.g., Soccer and bas-
+ketball); throwing and catching with two diﬀerent balls against wall; throwing a ball over
+the head and catching it behind the back; throwing a ball high and catching it after
+                              INTERNATIONAL JOURNAL OF SPORT AND EXERCISE PSYCHOLOGY    491
+
+
+
+
+Figure 1. Flow chart showing the experimental design of the study.
+
+
+having clapped hands several times; bosu ball kneeling and squats; walking on a balance
+bench; jumping through a ring ladder on the ﬂoor; jumping rope with diﬀerent tech-
+niques; throwing a ball high and catching it after having touched the ground; and
+jumping over long rope. All trainings were led by physical education teachers who
+were trained in the training protocols. The compliance with the protocols was checked
+by the ﬁrst author. Participants in the control group did not perform any physical exercise
+intervention and were instead asked to read a book of their choice. This “reading club”
+was supervised by a teacher and took place in exact the same time as the physical inter-
+ventions did, but in a diﬀerent room.
+
+
+Measures
+Participants self-reported their age, gender, and how frequently they engage in sport and
+exercise inside and outside of school. For the sport engagement, participants indicated
+the number of their weekly physical education hours, whether they are also active in
+sport and exercise outside the school (yes or no), and, if so, the average number of
+492      W. ALTERMANN AND P. GRÖPEL
+
+
+hours per week they spent doing sport or exercising during the last month. To control for
+participants’ academic achievements, participants also indicated their most recent seme-
+ster grades for graduation subjects (Mathematics, German, and English). The grades
+ranged from 1 to 5, with lower value representing better achievement, and were averaged
+into a single academic achievement score.
+    Attention was measured with the revised d2-test of attention (Brickenkamp et al.,
+2010), which is a reliable and commonly used measure of concentrative capacities (Stein-
+born et al., 2018), and easily applicable to school settings (Bölte et al., 2000). The test con-
+sists of 14 rows of letters (d’s and p’s) that are each surrounded with up to four short
+dashes. Participants’ task is to search each row for d’s with two dashes and cross them
+out, while also refraining from responding to seductively similar stimuli (e.g., a d with
+three dashes, or a p with two dashes). Each row includes 57 items and there is a time
+limit of 20 s per row. Participants were asked to work as fast and accurately as possible
+while completing the test. Three main scores were computed from the test: the concen-
+tration performance score, the error score, and the speed score. The concentration per-
+formance score is the absolute number of detected targets minus the number of
+omission and commission errors, thus reﬂecting both speed and accuracy. The error
+score represents the percentage of processed items that were processed incorrectly
+(either due to omission or commission errors). Finally, the speed score represents the
+absolute number of detected targets.
+    Perceived physical exertion was assessed with an adapted version of the Borg CR-10
+scale (Foster et al., 2001). The CR-10 scale is a 11-point Likert scale, with the score
+ranging from 0 (nothing at all) to 5 (heavy) to 10 (very, very heavy) and nominal descriptors
+attached to the respective intensities.
+
+
+Statistical analysis
+To test the homogeneity of groups, separate one-way ANOVAs were conducted on the
+hours of sport and exercise activities inside and outside of school, and on academic achieve-
+ment. To check the intensity of exercise intervention, a one-way ANOVA with post-hoc tests
+(Bonferroni corrected) were conducted on the rate of perceived exertion with the three
+intervention groups. For the study hypotheses, separate 4 (Group) × 2 (Phase) repeated
+measures ANOVAs were conducted on concentration performance score, error score, and
+speed score to test whether attention changed from pretest to posttest among the
+study groups. In case of signiﬁcant interaction, we conducted two contrast-coded analyses
+through the speciﬁcation of L (the test matrix) and M matrix (the transformation matrix).
+One contrast-coded analysis (LMATRIX +1, +1, +1, −3 for the three intervention groups
+and the control group, respectively) tested whether the three exercise intervention
+groups would improve attention more that the control group, and the other contrast-
+coded analysis (LMATRIX +2, −1, −1, 0 for the endurance, strength, coordination, and
+control group, respectively) tested whether the endurance exercise intervention would
+have a higher eﬀect on attention that the coordination and strength exercise interventions.
+In addition, we also conducted the contrast-coded test for the strength group (LMATRIX −1,
++2, −1, 0) and the coordination group (LMATRIX −1, −1, +2, 0). The M matrix was speciﬁed
+as MMATRIX −1, +1 for the respective pretest and posttest attentional scores. All analyses
+were performed with SPSS 26.0 (IBM Corp.; Armonk, NY, United States). For the contrast-
+                                       INTERNATIONAL JOURNAL OF SPORT AND EXERCISE PSYCHOLOGY                        493
+
+
+coded tests, we used the Bonferroni-adjusted p value of .0125. The signiﬁcance level for all
+other analyses was set at p < .05 (two tailed).
+
+
+Results
+Characteristics of the study groups are presented in Table 1 and attentional scores are in
+Table 2. The study groups did not diﬀer in academic achievement and the hours of sport
+and exercise inside and outside of school. Regarding the intensity of the intervention, the
+intervention groups diﬀered in perceived exertion, F(2,69) = 9.03, p < .001, η2p = .21, with par-
+ticipants reporting higher exertion during the endurance intervention than during the
+strength intervention (p < .018) and the coordination intervention (p < .001). The strength
+and coordination groups did not diﬀer in the rate of perceived exertion (p = .563).
+    Concentration performance score improved from pretest to posttest for all groups, as
+indicated by the main eﬀect of Phase, F(1, 92) = 306.80, p < .001, η2p = .77. Moreover, the
+interaction eﬀect was signiﬁcant, F(3, 92) = 10.07, p < .001, η2p = .25, indicating that the
+improvement in attention varied across groups. Contrast-coded test (+1, +1, +1, −3 for
+the three intervention groups and the control group, respectively) was signiﬁcant, F(1,
+92) = 20.36, p < .001, η2p = .18, indicating that participants in the intervention groups
+improved more than control participants. Separate contrast-coded tests for the interven-
+tion groups revealed a signiﬁcant contrast for the strength group, F(1, 92) = 8.64, p = .004,
+η2p = .09, a marginally signiﬁcant contrast for the coordination group, F(1, 92) = 5.84, p
+= .018, η2p = .06, and a non-signiﬁcant contrast for the endurance group, F(1, 92) = 0.28,
+p = .601, η2p = .00. The coordination group showed the highest, and the strength group
+the lowest, improvement in concentration performance.
+    Error score declined signiﬁcantly from pretest to posttest, F(1, 92) = 158.97, p < .001, η2p
+= .63, yet the level of decline varied across groups, F(3, 92) = 8.06, p < .001, η2p = .21. Con-
+trast-coded analysis for the three intervention groups versus the control group was sig-
+niﬁcant, F(1, 92) = 12.63, p = .001, η2p = .12, indicating that participants in the
+intervention groups made fewer errors than control participants in the posttest. Con-
+trast-coded tests for the intervention groups yielded signiﬁcant results for the coordi-
+nation group, F(1, 92) = 8.80, p = .004, η2p = .09, and the strength group, F(1, 92) = 8.53,
+p = .004, η2p = .09, but no signiﬁcant result for the endurance group, F(1, 92) = 0.002, p
+= .965, η2p = .00. Participants in the coordination group showed the highest, and partici-
+pants in the strength group the lowest, improvement in their accuracy by detecting
+the targets.
+
+
+Table 1. Characteristics of the study groups.
+                                             Endurance     Strength      Coordination    Control
+                                              (n = 24)     (n = 24)        (n = 24)      (n = 24)      F      p      η2
+Hours of sport in leisure time per week, M   6.05 (1.81)   6.22 (2.29)    6.27 (2.86)   7.44 (2.43)   1.29    .283   0.05
+  (SD)
+Hours of physical education per week, M      3.25 (1.33)   3.25 (1.33)    3.25 (1.33)   3.25 (1.33)   0.00   1.00    0.00
+  (SD)
+Academic grades, M (SD)                      2.42 (0.62)   2.61 (0.56)    2.61 (0.69)   2.86 (0.92)   1.57    .201   0.05
+Perceived exertion, M (SD)                   7.67 (0.82)   6.96 (0.81)    6.63 (0.97)       —         9.03   <.001   0.21
+Note: Groups are stratiﬁed according to age and gender; each study group includes three women and three men of each
+ age category (15, 16, 17, and 18 years). Academic grades range from 1 (best) to 5 (worst). Perceived exertion ranges
+ from 0 (nothing at all) to 5 (heavy) to 10 (very, very heavy).
+                                                                                                                                                   494
+
+
+
+
+                                                                                                                                                   W. ALTERMANN AND P. GRÖPEL
+Table 2. Means (Standard Deviations), and ANOVA statistics for attentional variables.
+                                Endurance                 Strength       Coordination        Control                        ANOVA
+                                 (n = 24)                 (n = 24)         (n = 24)          (n = 24)      Eﬀect     F               p      η2
+Concentration score                                                                                         P      306.80           <.001   0.77
+Pre                            149.79 (20.69)           162.25 (23.52)   149.92 (22.49)   157.40 (23.26)    G        1.73            .166   0.05
+Post                           190.87 (15.37)           192.25 (14.00)   197.04 (10.66)   175.99 (21.97)   P×G      10.07           <.001   0.25
+Error score                                                                                                 P      158.97           <.001   0.63
+Pre                             11.54 (4.76)              9.65 (5.13)     13.85 (5.86)     10.14 (5.74)     G        1.11            .350   0.04
+Post                             4.32 (2.62)              4.76 (2.17)      4.21 (2.90)      6.95 (4.34)    P×G       8.06           <.001   0.21
+Speed score                                                                                                 P      151.33           <.001   0.62
+Pre                            169.54 (23.05)           179.33 (22.64)   173.71 (21.31)   174.52 (20.81)    G        1.62            .189   0.05
+Post                           199.58 (16.19)           201.83 (13.54)   205.88 (12.59)   188.92 (19.87)   P×G       3.96            .011   0.11
+Note: P = Phase; G = Group; P × G = Phase × Group interaction.
+                              INTERNATIONAL JOURNAL OF SPORT AND EXERCISE PSYCHOLOGY        495
+
+
+    Regarding speed score, there was an signiﬁcant main eﬀect of Phase, F(1, 92) =
+151.33, p < .001, η2p = .62, and a signiﬁcant interaction, F(3, 92) = 3.96, p = .011,
+η2p = .11. Contrast-coded analysis for the three intervention groups versus the control
+group was signiﬁcant, F(1, 92) = 8.70, p = .004, η2p = .09, indicating that participants in
+the intervention groups increased their working speed to a higher degree than
+control participants. Separate contrast-coded tests for the intervention groups
+yielded no signiﬁcant results, indicating that the improvement in working speed was
+the same regardless of the type of intervention.
+
+
+Discussion
+The aim of this study was to test the eﬀects of three diﬀerent modes of long-term exercise
+training – endurance, strength, and coordination – on adolescents’ attention. As hypoth-
+esised, we found that concentration performance improved after the 8-week training
+intervention (two sessions/week) for all exercise groups, as compared with the control
+group. In contrast to hypothesis, we further found that participants involved in coordi-
+nation training, rather than those involved in endurance training, showed the highest
+attentional beneﬁts. Participants in the strength group improved attention to the
+lowest degree. These results indicate that long-term exercise is in general beneﬁcial for
+adolescents’ attention, with coordination exercise training showing the highest impact.
+    The ﬁnding that all three training groups improved their attentional performance is in
+line with previous evidence showing that exercise training intervention generally results
+in positive changes in attention (de Sousa et al., 2018). Several studies with children and
+older adults found that attentional test score increased from before to after a long-term
+exercise intervention (e.g., Alesi et al., 2016; Hillman et al., 2014; Liu-Ambrose et al., 2010;
+Vaughan et al., 2014). We replicated this eﬀect for adolescents. This is an important con-
+tribution given that adolescence is a sensitive period of maturation, where ﬁne tuning of
+cognitive functions take places until a mature level of performance is achieved in early
+adulthood (Luna, 2009). Physical exercise seems to promote this cognitive development
+and may in turn add to adolescents’ psychosocial adjustment and learning (Crone & Dahl,
+2012; Santana et al., 2016; Stawarczyk et al., 2014).
+    We further tested whether diﬀerent types of exercise diﬀer in their eﬀect on attention.
+Positive results have been most often reported for endurance exercise training (de Sousa
+et al., 2018), which let us assume that this type of training would have higher eﬀect than
+strength and coordination trainings. However, contrast analysis showed that participants
+involved in coordination training, rather than endurance training, showed the highest
+improvements in attentional performance. This may be explained by higher demands
+on cognitive involvement due to higher motor complexity of coordinative tasks. In par-
+ticular, researchers observed that more complex motor tasks require more prefrontal
+cortex activity, and thus a higher variety of frontal-dependent cognitive processes, than
+basic or automatic motor behaviours that are more controlled by the basal ganglia
+(Netz, 2019; Serrien et al., 2006). Consequently, coordinative exercise may especially facili-
+tate and develop cortical centres responsible for cognitive functions including attention,
+whereas the less complex endurance and strength exercises might require individuals to
+perform more automated movements and thus prefrontal structures might not be
+required to the same extent as in the coordinative tasks (Koutsandreou et al., 2016).
+496      W. ALTERMANN AND P. GRÖPEL
+
+
+   The eﬀect of coordination exercise training is also in line with the recent meta-analysis
+by Ludyga et al. (2020) who reported greater eﬀect of coordination exercise than endur-
+ance and strength exercises on overall cognitive/executive function, as derived from mod-
+erator analysis within a meta-regression model. Coordinative tasks may thus bring the
+highest beneﬁts not only for attention, but for the cognitive function in general.
+Ludyga et al. further observed similar eﬀects for both endurance and strength training
+interventions, whereas we found that participants in the strength group beneﬁted least
+from the intervention. However, this should be interpreted with caution because the
+mechanisms that trigger beneﬁts of this exercise type for cognition are less clear and
+the reported eﬀects on attention are mixed (de Sousa et al., 2018). We need more exper-
+imental studies that would directly compare diﬀerent types of long-term exercise in their
+eﬀects on cognitive function in general, and attention in particular, to allow for a deﬁni-
+tive conclusion.
+   Our exercise intervention lasted for eight consecutive weeks, with two 50-min training
+sessions per week. This was comparable with prior research on long-term exercise inter-
+vention, in which the intervention typically lasted for six weeks or more, with the mean
+frequency of 2.8 session per week and the mean session duration of 53.9 min (Ludyga
+et al., 2020; Xue et al., 2019). Prior evidence is inconclusive regarding the dose parameters,
+with meta-analyses either showing a higher eﬀect of exercise on cognitive performance
+with shorter (Xue et al., 2019) or longer session duration (Northey et al., 2018), or no
+association between the eﬀect size and single dose parameters (Ludyga et al., 2020).
+However, a meta-analysis of results with child and adolescent samples observed the
+highest beneﬁts in the modalities of curricular physical activity (Xue et al., 2019), indicat-
+ing that the particular setting the participants were used to might provide the optimal
+dose parameter. We therefore chose two 50-min session per week because it corre-
+sponded to the school setting in which the study was conducted.
+   The present study has multiple strength, including well-standardised training protocol,
+a randomised controlled research design, and high statistical power to detect predicted
+eﬀects. Moreover, the study was enacted under real-life setting (i.e., school), which
+increases the generalisability of its results. However, this study also has several limitations.
+First, participants were recruited from a private school which requires tuition fees; conse-
+quently, the sample presumably comes from families with higher socio-economic status.
+Students from households with higher wealth engage more often in physical activity
+outside school (Bann et al., 2019), which might positively inﬂuence the participants’
+motivation to take part in the study. Future researchers should sample students from
+families with diﬀerent socio-economic status to enlarge the generalisability of our
+results. Second, the coordination exercise intervention also included a component of
+strength and vice versa, as it is diﬃcult to completely isolate both strength and coordi-
+nation components. Third, we did not test gender and age diﬀerences in our analyses.
+Our sample size would be too small to include further predictors in the group analyses.
+Rather, we stratiﬁed the intervention and control groups according to participants’ age
+and gender, so that equal number of men and women of each target age were included
+in each study group. The present results should therefore not be confounded by gender
+or age diﬀerences, yet we cannot conclude whether diﬀerent gender or age groups
+beneﬁt more from a particular exercise intervention. Finally, the endurance intervention
+was scored more demanding than the strength and coordination interventions. While it is
+                                  INTERNATIONAL JOURNAL OF SPORT AND EXERCISE PSYCHOLOGY              497
+
+
+plausible to expect that high-intensity interval training will be perceived as demanding, a
+recent meta-analysis also found no evidence for main eﬀect of exercise intensity on exer-
+cise-induced cognitive beneﬁts (Ludyga et al., 2020). Consequently, it is unlikely that the
+higher intensity of the HIIT intervention in our study confounded the study results.
+    The results of this research also suggest practical implications. Due to the school regu-
+lations, we had to deliver the exercise interventions as an extracurricular activity, yet still
+in the school context. The participation led to clear beneﬁts for participants’ attention. The
+school setting may thus become a useful place for informal exercise activities, such active
+breaks between classes or after-school programmes. School directors could even think of
+allocating a greater portion of curricular time to exercise programmes. This need not
+necessarily mean to increase the curricular time in an absolute number. Rather, school
+directors may take time from other, so-called academic subjects. Prior research showed
+that taking an hour from other subject and allocating it to sport and exercise does not
+hinder student academic achievement (Trudeau & Shephard, 2008). Consequently, allo-
+cating more time to physical exercise activities does not seem to come at the cost of aca-
+demic performance. In contrast, such activities are likely to promote students’ attention
+which is an indirect but important factor in academic achievement.
+
+
+Conclusion
+This study showed that long-term exercise intervention might be a promising way to
+promote attention in adolescent students. School directors may thus allocate a greater
+portion of curricular time to exercise programmes. This may be achieved by taking
+time from other subjects, even without risk of hindering student academic achievement
+(Trudeau & Shephard, 2008). The study further indicates that the inclusion of coordination
+activities might be especially beneﬁcial for adolescent students’ attention. Physical edu-
+cation teachers are thus encouraged to enrich their lessons with coordinative tasks.
+
+
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+
+
+Data availability statement
+Data are openly available at ﬁgshare (https://doi.org/10.6084/m9.ﬁgshare.23703237). The preregis-
+tration can be found under https://aspredicted.org/mt9t4.pdf.
+
+
+ORCID
+Wolfgang Altermann     http://orcid.org/0000-0002-4563-2728
+Peter Gröpel  http://orcid.org/0000-0001-8765-176X
+
+
+References
+Alesi, M., Bianco, A., Luppina, G., Palma, A., & Pepi, A. (2016). Improving children’s coordinative skills
+   and executive functions: The eﬀects of a football exercise program. Perceptual and Motor Skills,
+   122(1), 27–46. https://doi.org/10.1177/0031512515627527
+498        W. ALTERMANN AND P. GRÖPEL
+
+
+Alloway, T. P., & Alloway, R. G. (2010). Investigating the predictive roles of working memory and IQ in
+   academic attainment. Journal of Experimental Child Psychology, 106(1), 20–29. https://doi.org/10.
+   1016/j.jecp.2009.11.003
+Bann, D., Scholes, S., Fluharty, M., & Shure, N. (2019). Adolescents’ physical activity: Cross-national
+   comparisons of levels, distributions and disparities across 52 countries. International Journal of
+   Behavioral Nutrition and Physical Activity, 16(1), 141. https://doi.org/10.1186/s12966-019-0897-z
+Best, J. R., Miller, P. H., & Naglieri, J. A. (2011). Relations between executive function and academic
+   achievement from ages 5 to 17 in a large, representative national sample. Learning and Individual
+   Diﬀerences, 21(4), 327–336. https://doi.org/10.1016/j.lindif.2011.01.007
+Bölte, S., Adam-Schwebe, S., Englert, E., Schmeck, K., & Poustka, F. (2000). Zur Praxis der psycholo-
+   gischen Testdiagnostik in der deutschen Kinder-und Jugendpsychiatrie: Ergebnisse einer
+   Umfrage [Test-usage in German child and adolescent psychiatry: Report on a survey.].
+   Zeitschrift für Kinder-und Jugendpsychiatrie und Psychotherapie, 28(3), 151–161. https://doi.org/
+   10.1024//1422-4917.28.3.151
+Brickenkamp, R., Schmidt-Atzert, D., & Liepmann, D. (2010). Test d2 – Revision [Revision of the d2 test].
+   Hogrefe.
+Budde, H., Voelcker-Rehage, C., Pietraßyk-Kendziorra, S., Ribeiro, P., & Tidow, G. (2008). Acute coor-
+   dinative exercise improves attentional performance in adolescents. Neuroscience Letters, 441(2),
+   219–223. https://doi.org/10.1016/j.neulet.2008.06.024
+Caspersen, C. J., Powell, E. C., & Christenson, G. M. (1985). Physical activity, exercise, and physical
+   ﬁtness: Deﬁnitions and distinctions for health-related research. Public Health Reports, 100, 126–
+   131. https://doi.org/10.2307/20056429
+Chaddock-Heyman, L., Hillman, C. H., Cohen, N. J., & Kramer, A. F. (2014). The importance of physical
+   activity and aerobic ﬁtness for cognitive control and memory in children. Monographs of the
+   Society for Research in Child Development, 79(4), 25–50. https://doi.org/10.1111/mono.12129
+Chang, Y., Labban, J., Gapin, J., & Etnier, J. (2012). The eﬀects of acute exercise on cognitive perform-
+   ance: A meta-analysis. Brain Research, 1453, 87–101. https://doi.org/10.1016/j.brainres.2012.02.068
+Chim, H. Q., Gijselaers, H. J., de Groot, R. H., Van Gerven, P. W., oude Egbrink, M. G., & Savelberg, H. H.
+   (2021). The eﬀects of light physical activity on learning in adolescents: A systematic review.
+   International Review of Sport and Exercise Psychology, Advance online publication. https://doi.
+   org/10.1080/1750984X.2021.2001837
+Crone, E. A., & Dahl, R. E. (2012). Understanding adolescence as a period of social–aﬀective engagement
+   and goal ﬂexibility. Nature Reviews Neuroscience, 13(9), 636–650. https://doi.org/10.1038/nrn3313
+de Sousa, F. M. A., Medeiros, A. R., del Rosso, S., Stults-Kolehmainen, M., & Boullosa, D. A. (2018). The
+   inﬂuence of exercise and physical ﬁtness status on attention: A systematic review. International
+   Review of Sport and Exercise Psychology, 12(1), 202–234. https://doi.org/10.1080/1750984X.2018.
+   1455889
+Faul, F., Erdfelder, E., Lang, A.-G., & Buchner, A. (2007). G*Power 3: A ﬂexible statistical power analysis
+   program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39(2),
+   175–191. https://doi.org/10.3758/BF03193146
+Ferris, L. T., Williams, J. S., & Shen, C. L. (2007). The eﬀect of acute exercise on serum brain-derived
+   neurotrophic factor levels and cognitive function. Medicine & Science in Sports & Exercise, 39(4),
+   728–734. https://doi.org/10.1249/mss.0b013e31802f04c7
+Foster, C., Florhaug, J. A., Franklin, J., Gottschall, L., Hrovatin, L. A., Parker, S., Doleshal, P., & Dodge, C.
+   (2001). A new approach to monitoring exercise training. The Journal of Strength & Conditioning
+   Research, 15(1), 109–115.
+Hawley, J. A., Hargreaves, M., Joyner, M. J., & Zierath, J. R. (2014). Integrative biology of exercise. Cell,
+   159(4), 738–749. https://doi.org/10.1016/j.cell.2014.10.029
+Hillman, C. H., Pontifex, M. B., Castelli, D. M., Khan, N. A., Raine, L. B., Scudder, M. R., & Kamijo, K.
+   (2014). Eﬀects of the FITKids randomized controlled trial on executive control and brain function.
+   Pediatrics, 134(4), e1063–e1071. https://doi.org/10.1542/peds.2013-3219
+Hillman, C. H., Snook, E. M., & Jerome, G. J. (2003). Acute cardiovascular exercise and executive
+   control function. International Journal of Psychophysiology, 48(3), 307–314. https://doi.org/10.
+   1016/S0167-8760(03)00080-1
+                                    INTERNATIONAL JOURNAL OF SPORT AND EXERCISE PSYCHOLOGY                   499
+
+
+Hunzinker, R., & Weber, A. (2008, January 1). Koordination [Coordination]. Mobilepraxis. https://www.
+   mobilesport.ch/assets/lbwp-cdn/mobilesport/ﬁles/2013/09/praxis_2008_38_koordination_d.pdf
+Iuliano, E., di Cagno, A., Aquino, G., Fiorilli, G., Mignogna, P., Calcagno, G., & Di Costanzo, A. (2015).
+   Eﬀects of diﬀerent types of physical activity on the cognitive functions and attention in older
+   people: A randomized controlled study. Experimental Gerontology, 70, 105–110. https://doi.org/
+   10.1016/j.exger.2015.07.008
+Johnson, S. B., Blum, R. W., & Giedd, J. N. (2009). Adolescent maturity and the brain: The promise and
+   pitfalls of neuroscience research in adolescent health policy. Journal of Adolescent Health, 45(3),
+   216–221. https://doi.org/10.1016/j.jadohealth.2009.05.016
+Koutsandreou, F., Wegner, M., Niemann, C., & Budde, H. (2016). Eﬀects of motor versus cardiovascu-
+   lar exercise training on children’s working memory. Medicine and Science in Sports and Exercise, 48
+   (6), 1144–1152. https://doi.org/10.1249/MSS.0000000000000869
+Landrigan, J. F., Bell, T., Crowe, M., Clay, O. J., & Mirman, D. (2020). Lifting cognition: A meta-analysis
+   of eﬀects of resistance exercise on cognition. Psychological Research, 84(5), 1167–1183. https://
+   doi.org/10.1007/s00426-019-01145-x
+Liu-Ambrose, T., Nagamatsu, L. S., Graf, P., Beattie, B. L., Ashe, M. C., & Handy, T. C. (2010). Resistance
+   training and executive functions: A 12-month randomized controlled trial. Archives of Internal
+   Medicine, 170(2), 170–178. https://doi.org/10.1001/archinternmed.2009.494
+Ludyga, S., Gerber, M., Pühse, U., Looser, V. N., & Kamijo, K. (2020). Systematic review and meta-
+   analysis investigating moderators of long-term eﬀects of exercise on cognition in healthy individ-
+   uals. Nature Human Behaviour, 4(6), 603–612. https://doi.org/10.1038/s41562-020-0851-8
+Luna, B. (2009). Developmental changes in cognitive control through adolescence. Advances in Child
+   Development and Behavior, 37, 233–278. https://doi.org/10.1016/S0065-2407(09)03706-9
+Lüthy, F., & Di Potenza, F. (2016, June 1). Versteckte Intervalle [Hidden intervals]. Mobilesport. https://
+   assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/ﬁles/2016/06/VersteckeIntervalle_d.pdf
+McMorris, T., Turner, A., Hale, B. J., & Sproule, J. (2016). Beyond the catecholamines hypothesis for an
+   acute exercise–cognition interaction: A neurochemical perspective. In T. McMorris (Ed.), Exercise-
+   cognition interaction: Neuroscience perspectives (pp. 65–103). Academic Press.
+Moreau, D., & Conway, A. R. (2013). Cognitive enhancement: A comparative review of computerized
+   and athletic training programs. International Review of Sport and Exercise Psychology, 6(1), 155–
+   183. https://doi.org/10.1080/1750984X.2012.758763
+Netz, Y. (2019). Is there a preferred mode of exercise for cognition enhancement in older age? A
+   narrative review. Frontiers in Medicine, 6, 57. https://doi.org/10.3389/fmed.2019.00057
+Niederer, I., Kriemler, S., Gut, J., Hartmann, T., Schindler, C., Barral, J., & Puder, J. J. (2011). Relationship
+   of aerobic ﬁtness and motor skills with memory and attention in preschoolers (Ballabeina): A
+   cross-sectional and longitudinal study. BMC Pediatrics, 11(1), 46. https://doi.org/10.1186/1471-
+   2431-11-34
+Northey, J. M., Cherbuin, N., Pumpa, K. L., Smee, D. J., & Rattray, B. (2018). Exercise interventions for
+   cognitive function in adults older than 50: A systematic review with meta-analysis. British Journal
+   of Sports Medicine, 52(3), 154–160. https://doi.org/10.1136/bjsports-2016-096587
+Nouchi, R., Taki, Y., Takeuchi, H., Sekiguchi, A., Hashizume, H., Nozawa, T., & Kawashima, R. (2014).
+   Four weeks of combination exercise training improved executive functions, episodic memory,
+   and processing speed in healthy elderly people: Evidence from a randomized controlled trial.
+   Age, 36(2), 787–799. https://doi.org/10.1007/s11357-013-9588-x
+Ortega, F. B., Cadenas-Sanchez, C., Lee, D. C., Ruiz, J. R., Blair, S. N., & Sui, X. (2018). Fitness and fatness
+   as health markers through the lifespan: An overview of current knowledge. Progress in Preventive
+   Medicine, 3(2), e0013. https://doi.org/10.1097/pp9.0000000000000013
+Páez-Maldonado, J. A., Reigal, R. E., Morillo-Baro, J. P., Carrasco-Beltrán, H., Hernández-Mendo, A., &
+   Morales-Sánchez, V. (2020). Physical ﬁtness, selective attention and academic performance in a
+   pre-adolescent sample. International Journal of Environmental Research and Public Health, 17
+   (17), 6216. https://doi.org/10.3390/ijerph17176216
+Pereira, M. I., Gomes, P. S., & Bhambhani, Y. N. (2007). A brief review of the use of near infrared spec-
+   troscopy with particular interest in resistance exercise. Sports Medicine, 37(7), 615–624. https://
+   doi.org/10.2165/00007256-200737070-00005
+500        W. ALTERMANN AND P. GRÖPEL
+
+
+Poitras, V. J., Gray, C. E., Borghese, M. M., Carson, V., Chaput, J. P., Janssen, I., Katzmarzyk, P. T., Pate, R.
+   R., Connor Gorber, S., Kho, M. E., Sampson, M., & Tremblay, M. S. (2016). Systematic review of the
+   relationships between objectively measured physical activity and health indicators in school-
+   aged children and youth. Applied Physiology, Nutrition, and Metabolism, 41(6), S197–S239.
+   https://doi.org/10.1139/apnm-2015-0663
+Reigal, R. E., Moral-Campillo, L., Mier, R. J. R. D., Morillo-Baro, J. P., Morales-Sánchez, V., Pastrana, J. L.,
+   & Hernández-Mendo, A. (2020). Physical ﬁtness level is related to attention and concentration in
+   adolescents. Frontiers in Psychology, 11, 110. https://doi.org/10.3389/fpsyg.2020.00110
+Rueda, M. R., Pozuelos, J. P., & Cómbita, L. M. (2015). Cognitive neuroscience of attention: From brain
+   mechanisms to individual diﬀerences in eﬃciency. AIMS Neuroscience, 2(4), 183–202. https://doi.
+   org/10.3934/Neuroscience.2015.4.183
+Rühl, J., & Laubach, V. (2014). Funktionelles Zirkeltraining: Das moderne Sensomotoriktraining für alle
+   [Functional training: The modern sensorimotor training for all]. Meyer & Meyer.
+Santana, C. C. A., Azevedo, L. B., Cattuzzo, M. T., Hill, J. O., Andrade, L. P., & Prado, W. L. (2016).
+   Physical ﬁtness and academic performance in youth: A systematic review. Scandinavian Journal
+   of Medicine & Science in Sports, 27(6), 579–603. https://doi.org/10.1111/sms.12773
+Serrien, D. J., Ivry, R. B., & Swinnen, S. P. (2006). Dynamics of hemispheric specialization and inte-
+   gration in the context of motor control. Nature Reviews Neuroscience, 7(2), 160–166. https://doi.
+   org/10.1038/nrn1849
+Spalding, T. W., Lyon, L. A., Steel, D. H., & Hatﬁeld, B. D. (2004). Aerobic exercise training and cardi-
+   ovascular reactivity to psychological stress in sedentary young normotensive men and women.
+   Psychophysiology, 41(4), 552–562. https://doi.org/10.1111/j.1469-8986.2004.00184.x
+Spear, L. P. (2000). The adolescent brain and age-related behavioral manifestations. Neuroscience &
+   Biobehavioral Reviews, 24(4), 417–463. https://doi.org/10.1016/S0149-7634(00)00014-2
+Stawarczyk, D., Majerus, S., Catale, C., & D’Argembeau, A. (2014). Relationships between mind-wan-
+   dering and attentional control abilities in young adults and adolescents. Acta Psychologica, 148,
+   25–36. https://doi.org/10.1016/j.actpsy.2014.01.007
+Steinborn, M. B., Langner, R., Flehmig, H. C., & Huestegge, L. (2018). Methodology of performance
+   scoring in the d2 sustained-attention test: Cumulative-reliability functions and practical guide-
+   lines. Psychological Assessment, 30(3), 339–357. https://doi.org/10.1037/pas0000482
+Stoodley, C. J., Valera, E. M., & Schmahmann, J. D. (2012). Functional topography of the cerebellum
+   for motor and cognitive tasks: An fMRI study. Neuroimage, 59(2), 1560–1570. https://doi.org/10.
+   1016/j.neuroimage.2011.08.065
+Thomas, E., Bianco, A., Tabacchi, G., Marques da Silva, C., Loureiro, N., Basile, M., Giaccone, M., Sturm,
+   D. J., Şahin, F. N., Güler, Ö, Gómez-López, M., López Sánchez, G. F., Pajaujiene, S., Zuoziene, I. J.,
+   Rada, A., Alesi, M., & Palma, A. (2020). Eﬀects of a physical activity intervention on physical
+   ﬁtness of schoolchildren: The enriched sport activity program. International Journal of
+   Environmental Research and Public Health, 17(5), 1723. https://doi.org/10.3390/ijerph17051723
+Trudeau, F., & Shephard, R. J. (2008). Physical education, school physical activity, school sports and
+   academic performance. International Journal of Behavioral Nutrition and Physical Activity, 5(1), 1–
+   12. https://doi.org/10.1186/1479-5868-5-10
+Vaughan, S., Wallis, M., Polit, D., Steele, M., Shum, D., & Morris, N. (2014). The eﬀects of multimodal
+   exercise on cognitive and physical functioning and brain-derived neurotrophic factor in older
+   women: A randomized controlled trial. Age and Ageing, 43(5), 623–629. https://doi.org/10.
+   1093/ageing/afu010
+Westfall, D. R., Gejl, A. K., Tarp, J., Wedderkopp, N., Kramer, A. F., Hillman, C. H., & Bugge, A. (2018).
+   Associations between aerobic ﬁtness and cognitive control in adolescents. Frontiers in Psychology,
+   9, 1298. https://doi.org/10.3389/fpsyg.2018.01298
+World Health Organization. (2018). Promoting physical activity in the education sector. WHO. https://
+   sport.ec.europa.eu/sites/default/ﬁles/promoting-physical-activity-in-education-factsheet-2018_
+   ennew.pdf
+Xue, Y., Yang, Y., & Huang, T. (2019). Eﬀects of chronic exercise interventions on executive function
+   among children and adolescents: A systematic review with meta-analysis. British Journal of Sports
+   Medicine, 53(22), 1397–1404. https://doi.org/10.1136/bjsports-2018-099825
+
